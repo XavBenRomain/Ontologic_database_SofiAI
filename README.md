@@ -1,4 +1,4 @@
-# SofiAI-database-
+# SofiAI-Ontologic-database-
 Hello,
 Expert in the fields of Semantic Web, Deep Learning, Machine Learning, and symbolic AI, I work, in
 collaboration with a parent (30 years of expertise in AI, currently "Innovation fellow" at THALES), on
